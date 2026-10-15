@@ -1,0 +1,38 @@
+{
+  "mode": "forward_practice",
+  "post_id": 43327,
+  "question_id": 43332,
+  "question_title": "Will any of Belgium, France, Italy, Luxembourg, Netherlands, and/or Germany leave the EU before 2027?",
+  "probability_yes": 0.005,
+  "forecasted_at_utc": "2026-10-15T00:04:27.292574Z",
+  "deadline_utc": "2027-01-01T00:00:00Z",
+  "rationale_word_count": 214,
+  "sources": [
+    {
+      "url": "https://www.consilium.europa.eu/en/meetings/gac/2026/10/13/",
+      "title": "General Affairs Council, 13 October 2026 — Main results",
+      "source_date": "2026-10-13",
+      "source_type": "primary",
+      "accessed_at_utc": "2026-10-15T00:04:27.292574Z"
+    },
+    {
+      "url": "https://www.government.nl/government/coalition-agreement",
+      "title": "Coalition agreement: Let’s get to work. Building a better Netherlands",
+      "source_date": "2026-02-23",
+      "source_type": "primary",
+      "accessed_at_utc": "2026-10-15T00:04:27.292574Z"
+    },
+    {
+      "url": "https://carnegieendowment.org/europe/research/2026/09/how-europes-2027-elections-could-test-eu-governance",
+      "title": "How Europe’s 2027 Elections Could Test EU Governance",
+      "source_date": "2026-09-14",
+      "source_type": "secondary_analysis",
+      "accessed_at_utc": "2026-10-15T00:04:27.292574Z"
+    }
+  ],
+  "platform_status": {
+    "submission_status": "local_practice_record",
+    "submission_id": null,
+    "scored": false
+  }
+}
